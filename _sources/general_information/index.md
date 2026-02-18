@@ -1,55 +1,42 @@
 
-![ logo](../static/logo.png)
+![ logo](../static/Screenshot_Explorer.png)
 
 
 # Welcome!
 
-Hello and welcome to a short tutorial page for using the CCIWR-Explorer
+Hello and welcome to a short introductive tutorial page for using the CCIWR-Explorer
 
 ## Course name
 
-Within this course we will explore X
+Within this course we will briefly explore two potential aspects as examples how the Explorer can be used to inform during a particpative process.
 
-You can use the following sections to navigate through the content of the lecture:
+Following and aswering the posed questions will guide you on how to use several of the features incorporated by the Explorer; and subsequently allow you to explore similar questions of your own regarding locations of your own interest. 
 
-* [Overview & procedure ](https://m-earnest.github.io/course_template_diler/general_information/overview.html)
+You can use the following sections to navigate through the two tasks of the short tutorial:
 
-   What's this course all about? How are things implemented and supposed to work?
+* [Overview & introduction to procedure ](https://m-earnest.github.io/course_template_diler/general_information/overview.html)
 
-* [General outline](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
+   What's this tutorial all about? How are things implemented and supposed to work?
 
-   What are the specific topics and aspects taught?
+* ["...good title..."](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
 
-* [Introduction](https://m-earnest.github.io/course_template_diler/introduction/intro.html)
+   The first guided task: ... (subtitke about the general aspect elucidated, not the feature name)
 
-   All things gotta start somewhere, but how?
+* ["...good title..."](https://m-earnest.github.io/course_template_diler/introduction/intro.html)
 
-* [Content](https://m-earnest.github.io/course_template_diler/content/intro_content.html)
+   The second guided task: specifics...?
 
-   What is this course gonna contain?
+* [Concluding remarks and ideas](https://m-earnest.github.io/course_template_diler/content/intro_content.html)
+
+   ...
 
    
-* [Results communication](https://m-earnest.github.io/course_template_diler/general_information/results_communication.html)
-
-   Where should the acquired knowledge to be disseminated?
-
-* [Symposium](https://m-earnest.github.io/course_template_diler/general_information/symposium.html)
-
-   What to do about outreach and discourse creation?
-
-
-* [Diversity, Equity, Inclusion](https://m-earnest.github.io/course_template_diler/general_information/dei.html)
-
-   What to look out for, what to keep in mind and how to trear each other.
-
-* [Code of Conduct](https://m-earnest.github.io/course_template_diler/general_information/CoC.html)
-
-   Necessities for creating an open, fair, safe and inclusive learning
-   experience.
 
 ## I've got a question!
 
-In case you have any questions or difficulties with the lecture and its materials, please don’t hesitate a single second to get in touch with us. A great way to do this is to open an issue on the GitHub site of the course. You can of course further contact us via [E-mail](@psych.uni-frankfurt.de). Every feedback or idea  you might have is highly appreciated and valued.
+In case you have any questions or difficulties with the lecture and its materials, please don’t hesitate a single second to get in touch with us. A great way to do this is to open an issue on the GitHub site of the tutorial. You can of course further contact us via [E-mail](f.kneier@em.uni-frankfurt.de). Every feedback or idea you might have is highly appreciated and valued.
 
 
 ## Acknowledgements
+
+...
