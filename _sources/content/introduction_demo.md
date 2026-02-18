@@ -19,3 +19,5 @@ Here is the content of my dropdown
 Here is a (hidden) tip
 ```
 
+
+[Learn formatting with Markdown](https://www.markdownguide.org/basic-syntax/)
