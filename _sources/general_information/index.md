@@ -1,10 +1,10 @@
 
-![diler logo](../static/logo.png)
+![ logo](../static/logo.png)
 
 
 # Welcome!
 
-Hello everyone and welcome to the course page for X
+Hello and welcome to a short tutorial page for using the CCIWR-Explorer
 
 ## Course name
 
