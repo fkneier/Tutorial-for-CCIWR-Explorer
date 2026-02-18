@@ -1,6 +1,6 @@
 # Why climate Explorer Matters
 
-![Image of our logo](../../static/Big_Overlogo.png)
+![Image of our logo](../static/Big_Overlogo.png)
 
 ```{note}
 It is noteworthy to point out that the Explorer is based on global MMEs
