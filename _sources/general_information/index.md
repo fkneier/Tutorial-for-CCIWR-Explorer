@@ -12,7 +12,7 @@ Within this course we will briefly explore two potential aspects as examples how
 
 Following and aswering the posed questions will guide you on how to use several of the features incorporated by the Explorer; and subsequently allow you to explore similar questions of your own regarding locations of your own interest. 
 
-You can use the following sections to navigate through the two tasks of the short tutorial:
+You can use the following sections to navigate through some information/documentation to understand the functionality, meta-information and briefly how we imagine the explorer could be utilized if you ar econsidering it in a participative process, and links to the paper that introduced elementzs in their stakeholder dialog - and/or head towards the two tasks of the short tutorial:
 
 * [Overview & introduction to procedure ](https://m-earnest.github.io/course_template_diler/general_information/overview.html)
 
