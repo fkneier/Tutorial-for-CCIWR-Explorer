@@ -2,6 +2,7 @@ format: jb-book
 root: general_information/index
 
 chapters:
+- file: content/introduction_demo
 - file: general_information/overview
 - file: general_information/setup
 - file: general_information/intro
@@ -9,6 +10,5 @@ chapters:
   sections:
   - file: content/static_content
   - file: content/interactive_notebook
-- file: content/introduction_demo
 - file: general_information/CoC
 - file: general_information/dei
