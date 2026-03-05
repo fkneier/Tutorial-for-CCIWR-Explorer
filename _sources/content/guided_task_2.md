@@ -5,7 +5,7 @@
 
 Use the embedded window below or the [CCIWR-Explorer](https://ee-gwp.projects.earthengine.app/view/cciwr-explorer") in another window of you internet browser - which ever feels more comfortable - and locate the cell containing Ulaanbataar in the Explorer.
 
-
+<iframe name="myiFrame" width="1200px" height="750" src="https://ee-gwp.projects.earthengine.app/view/cciwr-explorer" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
 
 
 
