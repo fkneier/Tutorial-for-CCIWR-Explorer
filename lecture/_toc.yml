@@ -2,6 +2,10 @@ format: jb-book
 root: general_information/index
 
 chapters:
+- file: content/understand_information
+- file: content/utilize_for_lccap
+- file: content/guided_task_1
+- file: content/guided_task_2
 - file: content/introduction_demo
 - file: general_information/overview
 - file: general_information/setup
