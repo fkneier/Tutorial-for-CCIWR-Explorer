@@ -22,10 +22,10 @@ You can use the following sections to navigate through the pages (and you can se
 
    Please read the two short sections from the documentation: "What type of information is provided by the CCIWR Explorer?" and "How is the information provided?".
 
-* [How is the provided information best utilized for informing local climate change adaptation
+* (Optional) [How is the provided information best utilized for informing local climate change adaptation
 processes?](https://fkneier.github.io/Tutorial-for-CCIWR-Explorer/utilized.html)
 
-   (optional) You may skip unless interested. (Text is taken from the Documentation page of the Explorer.)
+   You may skip unless interested. (Text is taken from the Documentation page of the Explorer.)
 
 * ["...good title..."](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
 
