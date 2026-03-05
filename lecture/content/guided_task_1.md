@@ -17,9 +17,9 @@ To find locations on the map, you can adjust the transparency of the layers by c
 
 > Considering the median of the simulated changes, climate change mitigation (i.e., SSP 1 (RCP2.6)) is projected to lead to a smaller decrease in renewable groundwater resources than SSP 3 (RCP 7.0) in this region.
 
-Yes?
+a. Yes
 
-No?
+b. No
 
 ```{tip}
 :class: dropdown
