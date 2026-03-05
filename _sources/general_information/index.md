@@ -3,7 +3,7 @@
 
 
 <p style="text-align: center;"># Welcome!</p>
-
+# Welcome!
 
 Hello and welcome to a short introductive tutorial for using the [CCIWR-Explorer](https://ee-gwp.projects.earthengine.app/view/cciwr-explorer) ("Climate Change Impact on Water Resources"-Explorer).
 
