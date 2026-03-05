@@ -1,7 +1,7 @@
 # 2: Explore future changes in total runoff in the percentiles box for a location
 
 
->
+> 
 > **Task 2:** Explore future changes in total runoff in Ulaanbataar, the capital of Mongolia.
 > 
 
