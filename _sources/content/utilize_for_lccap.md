@@ -20,3 +20,4 @@ In a participatory climate change adaptation process, selected percentile box pl
 The range of potential future changes can also serve as an input to local water resources management models that combine the range of changes with local information on, e.g., water demand ([Kneier et al., 2021](https://doi.org/10.1016/j.envsoft.2023.105764)) or the acceptance of certain adaptation measures ([Müller et al., 2024](https://doi.org/10.1016/j.envsoft.2024.106188)).
 
 ---
+---
