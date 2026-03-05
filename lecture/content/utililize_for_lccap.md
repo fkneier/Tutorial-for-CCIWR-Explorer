@@ -1,5 +1,14 @@
 # How is the provided information best utilized for informing local climate change adaptation processes?
 
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://....png" 
+    alt="Discussion of downloaded sreenshots among stakeholders">
+</img>
+
 Climate change adaptation is challenging due to the large uncertainties about the future. These uncertainties need to be embraced and not neglected when executing (participatory) climate change adaptation processes ([Döll and Romero-Lankao, 2017](https://doi.org/10.1002/2016EF000411)).
 
 To support participatory processes for climate change adaptation concerning water resources, e.g. in a city or county, we recommend downloading the percentile box plots for the grid cell that contains the location of interest. Regarding the three provided variables, we suggest selecting at least the variable total water resources and its long-term changes on annual and seasonal time scales.
