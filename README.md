@@ -1,6 +1,6 @@
 ![logo](lecture/static/Explorer_Screenshot_2_rounded.png)
 
-<img src="https://github.com/fkneier/Tutorial-for-CCIWR-Explorer/blob/main/static/Explorer_Screenshot_2_rounded.png?raw=true" alt="Screenshot of the CCIWR-Explorer webpage" class="bg-primary mb-1" width="600px">
+<img src="https://github.com/fkneier/Tutorial-for-CCIWR-Explorer/blob/main/lecture/static/Explorer_Screenshot_2_rounded.png?raw=true" alt="Screenshot of the CCIWR-Explorer webpage" class="bg-primary mb-1" width="600px">
 
 
 ## "What's in this repository?"
