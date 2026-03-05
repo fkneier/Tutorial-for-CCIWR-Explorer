@@ -3,7 +3,7 @@
 
 ## "What's in this repository?"
 
-Hello!!! :) This is a tutorial for the Climate Explorer.
+?Hello!!! :) This is a tutorial for the Climate Explorer.
 
 
 
