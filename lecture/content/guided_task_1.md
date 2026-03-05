@@ -7,10 +7,14 @@
 >
 > What impact would climate change mitigation have, i.e., if the low-emissions scenario SSP1 (RCP2.6) were to become a reality?
 
+Open the CCIWR-Explorer in another window of you internet browser if you have not already. Or use the embedded window below:
 
 ```{tip}
 To find locations on the map, you can adjust the transparency of the layers by clicking on “Layers” and moving the slider.
 ```
+
+<iframe name="myiFrame" width="600px" height="400px" src="https://ee-gwp.projects.earthengine.app/view/cciwr-explorer" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
+
 
 
 ### 1.1 
