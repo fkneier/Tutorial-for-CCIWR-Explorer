@@ -35,6 +35,23 @@ Yes
 a. Yes
 ```
 
+```{admonition} Here's the solution / Click here!
+:class: important, dropdown
+a. Yes
+```
+
+
+```{admonition} Here's the solution / Click here!
+:class: dropdown
+a. Yes
+```
+
+```{admonition} Here's the solution / Click here!
+:class: hint, dropdown
+a. Yes
+```
+
+admonition, attention, caution, danger, error, important, hint, note, seealso, tip and warning
 
 ### 1.2 
 
