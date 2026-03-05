@@ -2,6 +2,7 @@
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/fkneier/Tutorial-for-CCIWR-Explorer/blob/main/lecture/static/Explorer_Screenshot_2_rounded.png?raw=true" alt="Screenshot of the CCIWR-Explorer webpage" class="bg-primary mb-1" width="100px">
 
 
+
 # Welcome!
 
 Hello and welcome to a short introductive tutorial for using the [CCIWR-Explorer](https://ee-gwp.projects.earthengine.app/view/cciwr-explorer) ("Climate Change Impact on Water Resources"-Explorer).
