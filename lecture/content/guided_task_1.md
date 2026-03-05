@@ -11,6 +11,8 @@ Use the embedded window below (for more space, you can hide the left menu by cli
 
 ```{tip}
 To find locations on the map, you can adjust the transparency of the layers by clicking on “Layers” and moving the slider.
+
+You can move the border between the left and right parts of the explorer to enlarge the windows of either side if you cannot access an element due to the window size.
 ```
 
 <iframe name="myiFrame" width="1200px" height="750" src="https://ee-gwp.projects.earthengine.app/view/cciwr-explorer" scrolling="no" marginwidth="0" marginheight="0" style="border:0px none #ffffff;"></iframe>
