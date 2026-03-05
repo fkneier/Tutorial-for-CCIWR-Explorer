@@ -1,13 +1,13 @@
 # 1: Explore on the map how water resources are expected to change in the future
 
 
+> 
 > **Task 1:** Explore how renewable groundwater resources in Central America, particularly in Honduras, El Salvador, and Nicaragua, are expected to change in the future.
 >
 > How are renewable groundwater resources (i.e., mean annual/yearly groundwater recharge) projected to change between 1985-2014 and 2041-2070 under the high-emissions scenario SSP 3 (RCP 7.0)?
 >
 > What impact would climate change mitigation have, i.e., if the low-emissions scenario SSP1 (RCP2.6) were to become a reality?
 >
->  
 
 Use the embedded window below (for more space, you can hide the left menu by clicking the 3-horizontal stripes button in the top left and use the fullscreen mode button in the top right of this webpage) or open the [CCIWR-Explorer](https://ee-gwp.projects.earthengine.app/view/cciwr-explorer") in another window of you internet browser - which ever feels more comfortable - and locate the appropriate region in the Explorer.
 
