@@ -1,7 +1,9 @@
 # 1: Explore on the map how water resources are expected to change in the future
 
 
-> Task 1: Explore how renewable groundwater resources in Central America, particularly in Honduras, El Salvador, and Nicaragua, are expected to change in the future. How are renewable groundwater resources (i.e., mean annual/yearly groundwater recharge) projected to change between 1985-2014 and 2041-2070 under the high-emissions scenario SSP 3 (RCP 7.0)? What impact would climate change mitigation have, i.e., if the low-emissions scenario SSP1 (RCP2.6) were to become a reality?
+> Task 1: Explore how renewable groundwater resources in Central America, particularly in Honduras, El Salvador, and Nicaragua, are expected to change in the future.
+> How are renewable groundwater resources (i.e., mean annual/yearly groundwater recharge) projected to change between 1985-2014 and 2041-2070 under the high-emissions scenario SSP 3 (RCP 7.0)?
+> What impact would climate change mitigation have, i.e., if the low-emissions scenario SSP1 (RCP2.6) were to become a reality?
 
 ```{tip}
 :class: dropdown
