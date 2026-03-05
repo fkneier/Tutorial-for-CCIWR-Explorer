@@ -5,7 +5,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="https://....png" 
+    src="https://github.com/fkneier/Tutorial-for-CCIWR-Explorer/blob/main/lecture/static/Explorer_Screenshot_2_rounded.png?raw=true" 
     alt="Discussion of downloaded sreenshots among stakeholders">
 </img>
 
