@@ -7,21 +7,29 @@
 >
 > What impact would climate change mitigation have, i.e., if the low-emissions scenario SSP1 (RCP2.6) were to become a reality?
 
+
+```{tip}
+To find locations on the map, you can adjust the transparency of the layers by clicking on “Layers” and moving the slider.
+```
+
+
+### 1.1 
+
+> Considering the median of the simulated changes, climate change mitigation (i.e., SSP 1 (RCP2.6)) is projected to lead to a smaller decrease in renewable groundwater resources than SSP 3 (RCP 7.0) in this region.
+
+Yes
+
+No
+
 ```{tip}
 :class: dropdown
 To find locations on the map, you can adjust the transparency of the layers by clicking on “Layers” and moving the slider.
 ```
-```{tip}
-To find locations on the map, you can adjust the transparency of the layers by clicking on “Layers” and moving the slider.
-```
-To find locations on the map, you can adjust the transparency of the layers by clicking on “Layers” and moving the slider.
 
-1.1 Considering the median of the simulated changes, climate change mitigation (i.e., SSP 1 (RCP2.6)) is projected to lead to a smaller decrease in renewable groundwater resources than SSP 3 (RCP 7.0) in this region.
-Yes1
-No
-Not sure
 
-1.2 Under the high-emissions scenario SSP 3 (RCP 7.0), more than 80% of all “models” (i.e., ensemble members) project a decrease in renewable groundwater resources by more than 50% in most of the region.
+### 1.2 
+
+> Under the high-emissions scenario SSP 3 (RCP 7.0), more than 80% of all “models” (i.e., ensemble members) project a decrease in renewable groundwater resources by more than 50% in most of the region.
 Yes
 No
 Not sure
