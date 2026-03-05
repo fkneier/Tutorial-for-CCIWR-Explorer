@@ -18,3 +18,5 @@ If groundwater resources are important for human water supply, or if they are a 
 In a participatory climate change adaptation process, selected percentile box plots should be presented to the stakeholders ([Müller and Döll, 2024](https://doi.org/10.5194/gc-7-121-2024)). This helps the stakeholders identify the future changes they wish to adapt to, depending on their risk aversion. For example, in the case of a high risk aversion towards reduced water availability, they may want to adapt to the P10 change of groundwater resources (e.g., -25%), while they may want to adapt to the P30 change (e.g., -15%) in the case of a moderate risk aversion.
 
 The range of potential future changes can also serve as an input to local water resources management models that combine the range of changes with local information on, e.g., water demand ([Kneier et al., 2021](https://doi.org/10.1016/j.envsoft.2023.105764)) or the acceptance of certain adaptation measures ([Müller et al., 2024](https://doi.org/10.1016/j.envsoft.2024.106188)).
+
+---
