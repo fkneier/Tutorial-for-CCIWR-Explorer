@@ -22,7 +22,7 @@ a. Yes
 b. No
 
 ```{admonition} Here's the solution
-:class: important, dropdown
+:class: dropdown
 a. Yes
 ```
 
@@ -49,6 +49,7 @@ a. No
 > **Under the high-emissions scenario SSP 3 (RCP 7.0), more than 80% of all “models” (i.e., ensemble members) project a decrease in renewable groundwater resources across most of the region.**
 
 a. Yes
+
 b. No
 
 ```{admonition} Here's the solution
