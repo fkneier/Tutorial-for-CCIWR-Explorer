@@ -3,6 +3,11 @@
 
 > **Task 2:** Explore future changes in total runoff in Ulaanbataar, the capital of Mongolia.
 
+Use the embedded window below or the [CCIWR-Explorer](https://ee-gwp.projects.earthengine.app/view/cciwr-explorer") in another window of you internet browser - which ever feels more comfortable - and locate the cell containing Ulaanbataar in the Explorer.
+
+
+
+
 
 ### 2.1 
 > **Under the very-high-emissions scenario SSP 5 (RCP 8.5), 30% of all ensemble members project a decrease in the yearly total runoff of more than...**
