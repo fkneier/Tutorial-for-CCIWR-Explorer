@@ -30,9 +30,16 @@ To find locations on the map, you can adjust the transparency of the layers by c
 ### 1.2 
 
 > Under the high-emissions scenario SSP 3 (RCP 7.0), more than 80% of all “models” (i.e., ensemble members) project a decrease in renewable groundwater resources by more than 50% in most of the region.
+
 Yes
+
 No
-Not sure
+
+```{note}
+:class: dropdown
+The note body will be hidden!
+```
+
 
 1.3 Under the high-emissions scenario SSP 3 (RCP 7.0), more than 80% of all “models” (i.e., ensemble members) project a decrease in renewable groundwater resources across most of the region.
 Yes
