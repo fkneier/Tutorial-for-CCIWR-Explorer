@@ -39,7 +39,7 @@ Yes
 
 No
 
-```{note}
+```{note} Solution:
 :class: dropdown
 The note body will be hidden!
 ```
