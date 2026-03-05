@@ -30,6 +30,11 @@ To find locations on the map, you can adjust the transparency of the layers by c
 Yes
 ```
 
+```{admonition} Here's the solution / Click here!
+:class: tip, dropdown
+a. Yes
+```
+
 
 ### 1.2 
 
