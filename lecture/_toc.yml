@@ -15,4 +15,4 @@ chapters:
   - file: content/static_content
   - file: content/interactive_notebook
 #- file: general_information/CoC
-- file: general_information/dei
+#- file: general_information/dei
