@@ -32,7 +32,7 @@ processes?](https://fkneier.github.io/Tutorial-for-CCIWR-Explorer/content/utiliz
 
 * [Guiding Task 2](https://fkneier.github.io/Tutorial-for-CCIWR-Explorer/content/guided_task_2.html)
 
-   The second guided task: Explore future changes for a location in the percentiles box onthe left-hand-side of the explorer.
+   The second guided task: Explore future changes for a location in the percentiles box on the left-hand-side of the explorer.
 
 
 
@@ -40,7 +40,7 @@ processes?](https://fkneier.github.io/Tutorial-for-CCIWR-Explorer/content/utiliz
 
 ## I've got a question!
 
-In case you have any questions or difficulties with the tutorial and its materials, please don’t hesitate a single second to get in touch with us. A great way to do this is to contact us via [E-mail](f.kneier@em.uni-frankfurt.de) or to open an issue on the GitHub site of the tutorial. Every feedback or idea you might have is highly appreciated and valued. For any questions about the CCIWR Explorer, please contact: contact@ageoce.com
+In case you have any questions or difficulties with the tutorial and its materials, please don’t hesitate a single second to get in touch with us. A great way to do this is to contact us via [E-mail](mailto:f.kneier@em.uni-frankfurt.de) or to open an issue on the GitHub site of the tutorial. Every feedback or idea you might have is highly appreciated and valued. For any questions about the CCIWR Explorer, please contact: contact@ageoce.com
 
 
 ## Acknowledgements
