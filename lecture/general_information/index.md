@@ -9,7 +9,7 @@ Hello and welcome to a short introductive tutorial for using the [CCIWR-Explorer
 
 You have likely just come from the Explorer landing page and wondered "Can someone not briefly guide me to use this and tell me what I can actually do with it"? This tutorial should get you started :)
 
-## The tutorial pages: Overview & introduction
+## The tutorial pages: introduction & overview
 
 We will briefly explore two potential aspects as examples of how the Explorer can be used to inform during a particpative process.
 
@@ -17,28 +17,24 @@ Following and answering two questions will guide you on how to use several of th
 
 You can use the following sections to navigate through the pages (and you can see them in the left-hand menu as well). You should familiarize yourself with the type of information provided on the Explorer to understand the functionality and meta-information. If your role is that of a facilitator in a participative process concerning climate change risks and you ar considering this tool to inform your stakeholders, we encourage you to briefly read the section on how we imagine the explorer could be utilized for this. Or you may head directly towards the two tasks of the short tutorial:
 
-...., and links to the paper that introduced elementzs in their stakeholder dialog - and/or head towards the two tasks of the short tutorial:
-
 * [Understand the information provided](https://flannel-latency-145.notion.site/AGEOCE-Explorer-for-Climate-Change-Impact-on-Water-Resources-183f8eb5c405806dba29f26c9f3bf383)
 
    Please read the two short sections from the documentation: "What type of information is provided by the CCIWR Explorer?" and "How is the information provided?".
 
 * (Optional) [How is the provided information best utilized for informing local climate change adaptation
-processes?](https://fkneier.github.io/Tutorial-for-CCIWR-Explorer/utilized.html)
+processes?](https://fkneier.github.io/Tutorial-for-CCIWR-Explorer/content/utilize_for_lccap.html)
 
    You may skip unless interested. (Text is taken from the Documentation page of the Explorer.)
 
-* ["...good title..."](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
+* [Guiding Task 1](https://fkneier.github.io/Tutorial-for-CCIWR-Explorer/content/guided_task_1.html)
 
-   The first guided task: ... (subtitke about the general aspect elucidated, not the feature name)
+   The first guided task: Explore on the two right-hand-side maps of the explorer how water resources are expected to change in the future.
 
-* ["...good title..."](https://m-earnest.github.io/course_template_diler/introduction/intro.html)
+* [Guiding Task 2](https://fkneier.github.io/Tutorial-for-CCIWR-Explorer/content/guided_task_2.html)
 
-   The second guided task: specifics...?
+   The second guided task: Explore future changes for a location in the percentiles box onthe left-hand-side of the explorer.
 
-* [Concluding remarks and ideas](https://m-earnest.github.io/course_template_diler/content/intro_content.html)
 
-   ...
 
    
 
