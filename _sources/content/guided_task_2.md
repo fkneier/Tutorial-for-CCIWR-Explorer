@@ -18,9 +18,9 @@ a. ...18%...
 
 b. ...27%...
 
-> **...until the period 2041-2070, 
+> **...until the period 2041-2070,**
 > 
-> while 50% of all ensemble members predict either a decrease or an increase of up to...**
+> **while 50% of all ensemble members predict either a decrease or an increase of up to...**
 
 c. ...8%.
 
@@ -33,16 +33,16 @@ a. 18%   and   c. 8%
 
 
 ### 2.2 
-> How does this change when considering total runoff in the summer (JJA)? 
-> 30% of all ensemble members project a decrease in the total summer runoff of more than...
+> **How does this change when considering total runoff in the summer (JJA)?**
+> **30% of all ensemble members project a decrease in the total summer runoff of more than...**
 
 a. ...24%...
 
 b. ...33%...
 
-> ...until the period 2041-2070,
+> **...until the period 2041-2070,**
 > 
-> while 50% of all ensemble members predict either...
+> **while 50% of all ensemble members predict either...**
 
 c. ...an increase of more than 7%.
 
