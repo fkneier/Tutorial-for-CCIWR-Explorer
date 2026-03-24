@@ -27,7 +27,7 @@ c. ...8%.
 d. ...13%
 
 ```{admonition} Here's the solution
-:class: important, dropdown
+:class: dropdown
 a. 18%   and   c. 8%
 ```
 
@@ -49,7 +49,7 @@ c. ...an increase of more than 7%.
 d. ...a decrease of more than 7%.
 
 ```{admonition} Here's the solution
-:class: important, dropdown
+:class: dropdown
 a. 24%   and   d. a decrease of more than 7%
 ```
 
@@ -62,7 +62,7 @@ a. Yes
 b. No
 
 ```{admonition} Here's the solution
-:class: important, dropdown
+:class: dropdown
 b. No
 ```
 
