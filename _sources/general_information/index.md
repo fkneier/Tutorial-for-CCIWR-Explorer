@@ -15,7 +15,7 @@ We will briefly explore two potential aspects as examples of how the Explorer ca
 
 Following and answering two questions will guide you on how to use several of the features incorporated by the Explorer; and subsequently allow you to explore similar questions of your own regarding locations of your own interest. 
 
-You can use the following sections to navigate through the pages (and you can see them in the left-hand menu as well). You should familiarize yourself with the type of information provided on the Explorer to understand the functionality and meta-information. If your role is that of a facilitator in a participative process concerning climate change risks and you ar considering this tool to inform your stakeholders, we encourage you to briefly read the section on how we imagine the explorer could be utilized for this. Or you may head directly towards the two tasks of the short tutorial:
+You can use the following sections to navigate through the pages (and you can see them in the left-hand menu as well). You should familiarize yourself with the type of information provided on the Explorer to understand the functionality and meta-information. If your role is that of a facilitator in a participative process concerning climate change risks and you are considering this tool to inform your stakeholders, we encourage you to briefly read the section on how we imagine the explorer could be utilized for this. Or you may head directly towards the two tasks of the short tutorial:
 
 * [Understand the information provided](https://flannel-latency-145.notion.site/AGEOCE-Explorer-for-Climate-Change-Impact-on-Water-Resources-183f8eb5c405806dba29f26c9f3bf383)
 
