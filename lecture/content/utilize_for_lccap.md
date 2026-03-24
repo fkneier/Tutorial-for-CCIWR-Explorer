@@ -11,7 +11,7 @@
 
 Climate change adaptation is challenging due to the large uncertainties about the future. These uncertainties need to be embraced and not neglected when executing (participatory) climate change adaptation processes ([Döll and Romero-Lankao, 2017](https://doi.org/10.1002/2016EF000411)).
 
-To support participatory processes for climate change adaptation concerning water resources, e.g. in a city or county, we recommend downloading the percentile box plots for the grid cell that contains the location of interest. Regarding the three provided variables, we suggest selecting at least the variable total water resources and its long-term changes on annual and seasonal time scales.
+To support participatory processes for climate change adaptation concerning water resources, e.g., in a city or county, we recommend downloading the percentile box plots for the grid cell that contains the location of interest. Regarding the three provided variables, we suggest selecting at least the variable total water resources and its long-term changes on annual and seasonal time scales.
 
 If groundwater resources are important for human water supply, or if they are a source of streamflow — particularly during the dry season — and thus relevant to the well-being of river biota, we recommend analyzing changes in annual groundwater resources. Changes in seasonal groundwater resources are relevant in the case of small aquifers with low water storage capacity. Changes in actual evapotranspiration can help to understand the impact of climate change on vegetation. As potential evapotranspiration will increase in the future, a decrease in actual evapotranspiration indicates stress for the vegetation.
 
