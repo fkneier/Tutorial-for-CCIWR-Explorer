@@ -5,7 +5,7 @@
 
 # Welcome!
 
-Hello and welcome to a short introductive tutorial for using the [CCIWR-Explorer](https://ee-gwp.projects.earthengine.app/view/cciwr-explorer) ("Climate Change Impact on Water Resources"-Explorer).
+Hello and welcome to a short introductive tutorial for using the <a href="https://ee-gwp.projects.earthengine.app/view/cciwr-explorer" target="_blank" rel="noopener noreferrer">CCIWR-Explorer</a> ("Climate Change Impact on Water Resources"-Explorer).
 
 You have likely just come from the Explorer landing page and wondered "Can someone not briefly guide me to use this and tell me what I can actually do with it"? This tutorial should get you started :)
 
