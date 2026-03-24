@@ -1,4 +1,4 @@
-# 2: Explore future changes in total runoff in the percentiles box for a location
+# 2: Explore future changes in total runoff in the percentile box for a location
 
 
 > 
